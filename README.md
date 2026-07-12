@@ -1,6 +1,8 @@
 # Hi there, I'm Luca Sclisizzo 👋
 
-M.Sc. student in Applied Psychology at the University of Trieste, with research interests in statistical genetics, psychiatric genetics, Bayesian statistics, and longitudinal data analysis.
+M.Sc. student in Applied Psychology at the University of Trieste
+
+My research interests include statistical genetics, psychiatric genetics, Bayesian statistics, and longitudinal data analysis.
 
 ## Research interests
 
