@@ -47,8 +47,9 @@ My research interests include statistical genetics, psychiatric genetics, Bayesi
 ## Contact
 
 - 📧 **Email:** luca.sclisizzo@gmail.com
-- 🆔 **ORCID:** https://orcid.org/0009-0001-2757-4261
-- 💼 **LinkedIn:** https://www.linkedin.com/in/luca-sclisizzo-814b6a260/
+- 🆔 **ORCID:** [0009-0001-2757-4261](https://orcid.org/0009-0001-2757-4261)
+- 💼 **LinkedIn:** [luca-sclisizzo](https://www.linkedin.com/in/luca-sclisizzo-814b6a260/)
+- 🦋 **Bluesky:** [@luca-sclisizzo.bsky.social](https://bsky.app/profile/luca-sclisizzo.bsky.social)
 
 ---
 
