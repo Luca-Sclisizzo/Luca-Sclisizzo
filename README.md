@@ -2,7 +2,6 @@
 
 M.Sc. student in Applied Psychology at the University of Trieste
 
-My research interests include statistical genetics, psychiatric genetics, Bayesian statistics, and longitudinal data analysis.
 
 ## Research interests
 
