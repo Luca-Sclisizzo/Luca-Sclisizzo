@@ -22,4 +22,4 @@ Working with Dr. Emma C. Johnson and Dr. Alexander S. Hatoum on **statistical ge
 | **Infrastructure** | Linux · HPC · Git & GitHub |
 
 ## Contact
-Website · [Email](mailto:luca.sclisizzo@gmail.com) · ORCID · LinkedIn · Bluesky
+[Website](https://lsclisizzo.com) · [Email](mailto:luca.sclisizzo@gmail.com) · [ORCID](https://orcid.org/0009-0001-2757-4261) · [LinkedIn](https://www.linkedin.com/in/luca-sclisizzo-814b6a260/) · [Bluesky](https://bsky.app/profile/luca-sclisizzo.bsky.social)
