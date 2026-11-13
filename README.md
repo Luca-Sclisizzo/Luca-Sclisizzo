@@ -1,55 +1,25 @@
-# Hi there, I'm Luca Sclisizzo 👋
+# Hi, I'm Luca Sclisizzo 👋
 
-M.Sc. student in Applied Psychology at the University of Trieste
+![Visiting Scholar](https://img.shields.io/badge/Visiting%20Scholar-WashU%20School%20of%20Medicine-A51417?style=for-the-badge)
+![M.Sc.](https://img.shields.io/badge/M.Sc.-University%20of%20Trieste-1f4e79?style=for-the-badge)
 
+Working with Dr. Emma C. Johnson and Dr. Alexander S. Hatoum on **statistical genetics, Bayesian modeling and psychiatric research**.
 
-## Research interests
+## Currently working on
+- 🧠 Bayesian hierarchical models for gene-expression trajectories in the developing brain
+- 🧬 GWAS and multivariate genomics (Genomic SEM)
+- 🤖 Machine learning for genomic data
+- ⏳ Large-scale genetically informed longitudinal models
 
-- 🧬 Statistical genetics (GWAS, Polygenic Scores, Gene–Environment Interplay)
-- 📊 Bayesian statistics and hierarchical modeling
-- 📈 Longitudinal and multilevel modeling
-- 🧠 Psychiatric genetics
+## Toolbox
 
-## Current work
-
-- Developing Bayesian methods for spatiotemporal transcriptomic
-- Learning advanced statistical genetics methodologies
-- Building reproducible analysis pipelines in Python and R
-
-## Technical skills
-
-### Programming
-- Python
-- R
-- Bash
-
-### Genomics & Statistical Genetics
-- PLINK / PLINK2
-- GenomicSEM
-- SBayesRC
-- edgeR
-- FUMA
-- MAGMA
-- LDSC
-
-### Computing
-- Linux
-- High-Performance Computing (HPC)
-- Git & GitHub
-
-## Featured repositories
-
-- 📈 Bayesian modeling of spatiotemporal trajectories
-- 🧬 Statistical genetics utilities
-- 📊 Data analysis projects
+| | |
+|---|---|
+| **Languages** | R · Python · Bash |
+| **Bayesian** | Stan / CmdStanR · hierarchical and multilevel models |
+| **Statistical genetics** | PLINK2 · GenomicSEM · LDSC · SBayesRC · MAGMA · FUMA |
+| **Transcriptomics** | edgeR · WGCNA · RNA-seq pipelines |
+| **Infrastructure** | Linux · HPC · Git & GitHub |
 
 ## Contact
-
-- 📧 **Email:** luca.sclisizzo@gmail.com
-- 🆔 **ORCID:** [0009-0001-2757-4261](https://orcid.org/0009-0001-2757-4261)
-- 💼 **LinkedIn:** [luca-sclisizzo](https://www.linkedin.com/in/luca-sclisizzo-814b6a260/)
-- 🦋 **Bluesky:** [@luca-sclisizzo.bsky.social](https://bsky.app/profile/luca-sclisizzo.bsky.social)
-
----
-
-> *Research at the intersection of genetics, statistics, and psychology.*
+Website · [Email](mailto:luca.sclisizzo@gmail.com) · ORCID · LinkedIn · Bluesky
